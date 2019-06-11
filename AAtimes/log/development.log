@@ -150,3 +150,6 @@ Processing by StaticPagesController#index as HTML
 Completed 200 OK in 69ms (Views: 65.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/assets/application.self-ef61673535e1f3f42c17a4f59e7854d70c4ed0f8869d75be24cd09111d06171e.css?body=1&livereload=1560185753667" for ::1 at 2019-06-10 09:55:53 -0700
+Started GET "/assets/application.self-ef61673535e1f3f42c17a4f59e7854d70c4ed0f8869d75be24cd09111d06171e.css?body=1&livereload=1560185753668" for ::1 at 2019-06-10 09:55:53 -0700
+Started GET "/assets/application.self-ef61673535e1f3f42c17a4f59e7854d70c4ed0f8869d75be24cd09111d06171e.css?body=1&livereload=1560185753669" for ::1 at 2019-06-10 09:55:53 -0700
